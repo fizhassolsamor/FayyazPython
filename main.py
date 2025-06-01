@@ -11,6 +11,10 @@
 10.	Type git commit -m “Adding PythonGit Poject” – It will show you both the files as create mode with code.
 11.	Type git push – and press Enter.
 12.	Type git pull – and press Enter. ( To fetch the changes others made )
+13.	Type git branch – to see branches – you’ll see * main
+14.	Type git branch littlefeature – to create a branch
+15.	Type git branch – you’ll see * main and littlefeature
+16.	Git checkout littlefeature – to switch to littlefeature branch
 
 '''
 
