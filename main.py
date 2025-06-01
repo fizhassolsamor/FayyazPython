@@ -10,6 +10,7 @@
 9.	Type git status – it will show you main.py and Requirements.txt in green as new file.
 10.	Type git commit -m “Adding PythonGit Poject” – It will show you both the files as create mode with code.
 11.	Type git push – and press Enter.
+12.	Type git pull – and press Enter. ( To fetch the changes others made )
 
 '''
 print ('hellooo ZEUS AGAIN')
