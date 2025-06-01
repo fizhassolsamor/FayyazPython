@@ -14,7 +14,7 @@
 13.	Type git branch – to see branches – you’ll see * main
 14.	Type git branch littlefeature – to create a branch
 15.	Type git branch – you’ll see * main and littlefeature
-16.	Git checkout littlefeature – to switch to littlefeature branch
+16.	Type git checkout littlefeature – to switch to littlefeature branch
 
 '''
 
